@@ -1,0 +1,17 @@
+Normal contamination estimate:	0.2919
+Average tumour ploidy estimate:	1.171
+Clonal cluster cellular prevalence Z=1:	1
+AllelicRatio binomial means for clonal cluster Z=1:	0.5 0.7741 0.8541 0.6041 0.8922 0.6307 0.9146 0.7073 0.6219 0.9292 0.7575 0.5858 0.9396 0.7931 0.6465 0.6293 0.9473 0.8195 0.6917 0.5639 0.9533 0.84 0.7266 0.6133 0.6333
+logRatio Gaussian means for clonal cluster Z=1:	-1.231 -0.0848 0.5458 0.5458 0.9831 0.9831 1.318 1.318 1.318 1.59 1.59 1.59 1.819 1.819 1.819 1.819 2.016 2.016 2.016 2.016 2.189 2.189 2.189 2.189 2.189
+logRatio Gaussian variance:	0.0025 0.0025 0.0025 0.0025 0.00247 0.00247 0.0025 0.0025 0.0025 0.0025 0.0025 0.0025 0.0025 0.0025 0.0025 0.0025 0.001986 0.001986 0.001986 0.001986 0.01336 0.01336 0.01336 0.01336 0.01336
+Number of iterations:	6
+Log likelihood:	-26126.2
+S_Dbw dens.bw (LogRatio):	0.0000 
+S_Dbw scat (LogRatio):	0.0000 
+S_Dbw validity index (LogRatio):	0.0000 
+S_Dbw dens.bw (AllelicRatio):	0.2388 
+S_Dbw scat (AllelicRatio):	0.5539 
+S_Dbw validity index (AllelicRatio):	0.7927 
+S_Dbw dens.bw (Both):	0.2388 
+S_Dbw scat (Both):	0.5539 
+S_Dbw validity index (Both):	0.7927 

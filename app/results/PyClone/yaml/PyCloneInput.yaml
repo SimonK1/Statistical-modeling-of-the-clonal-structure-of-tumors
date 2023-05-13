@@ -1,0 +1,3737 @@
+mutations:
+- id: chrY:11533188
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 39
+- id: chr1:16636349
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr17:21765907
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:5249817
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chrY:11292250
+  ref_counts: 22
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 18
+- id: chr9:40944160
+  ref_counts: 5
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 6
+- id: chr22:10729141
+  ref_counts: 36
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 0
+- id: chr16:46397308
+  ref_counts: 10
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 36
+- id: chrY:11536667
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 20
+- id: chr1:235737793
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:7940062
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 12
+- id: chr8:137908839
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr17:21857163
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 11
+- id: chr20:29057671
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:11319019
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:56835044
+  ref_counts: 19
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 28
+- id: chr18:48141145
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:22578204
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:30871778
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr4:7565977
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr1:245751588
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr8:606160
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:56860056
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr21:9730632
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chrY:56862007
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr22:11571671
+  ref_counts: 14
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 9
+- id: chr22:10737434
+  ref_counts: 4
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr22:10726746
+  ref_counts: 9
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr21:10397848
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr5:49658871
+  ref_counts: 30
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr19:27383248
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr2:91411328
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr1:143540671
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr4:49652871
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chrY:10693864
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:32976006
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:8234102
+  ref_counts: 44
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 148
+- id: chr4:117253391
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr21:10720265
+  ref_counts: 11
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 12
+- id: chr12:1795560
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr12:94285110
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr4:49156739
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr6:103486671
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:5313408
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr1:30338985
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:26666713
+  ref_counts: 13
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chrY:10693536
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr1:1938054
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:16527132
+  ref_counts: 5
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 3
+- id: chr22:11028377
+  ref_counts: 15
+  states:
+  - g_n: AAAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 14
+- id: chr21:10666738
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr20:26079573
+  ref_counts: 3
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 5
+- id: chr21:7946175
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr1:143222255
+  ref_counts: 51
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 99
+- id: chr22:10740252
+  ref_counts: 6
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr7:62446398
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr16:46390625
+  ref_counts: 498
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 2483
+- id: chr9:63817253
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:29408196
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr9:4197948
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr8:40981570
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 4
+- id: chr5:142713882
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:49155851
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 14
+- id: chr6:44760390
+  ref_counts: 5
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:31071595
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 9
+- id: chr9:41046461
+  ref_counts: 5
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 5
+- id: chr16:34705281
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr20:31055330
+  ref_counts: 11
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 0
+- id: chr6:45921623
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr7:158730535
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr3:162495338
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:143218111
+  ref_counts: 34
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 139
+- id: chr5:49600379
+  ref_counts: 19
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 133
+- id: chr21:7954001
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 17
+- id: chrY:56849334
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 12
+- id: chrY:11574608
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr10:4094393
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr4:49638105
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 2
+- id: chr16:34573480
+  ref_counts: 47
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 13
+- id: chr4:42732394
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr16:46396830
+  ref_counts: 29
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 10
+- id: chrY:56831763
+  ref_counts: 63
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 36
+- id: chr12:8754178
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:7255241
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr5:49600240
+  ref_counts: 82
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 1
+- id: chr9:62799677
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 10
+- id: chr20:29327026
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr21:7929901
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 13
+- id: chr8:132061323
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr7:56354271
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr19:27349917
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr3:90702339
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr16:34899432
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr21:7925595
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 22
+- id: chr7:62309320
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr1:164703397
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:11035213
+  ref_counts: 4
+  states:
+  - g_n: AAAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr16:46465434
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr10:38529396
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 76
+- id: chr16:34899405
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr1:143217476
+  ref_counts: 138
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 814
+- id: chr21:9246475
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 41
+- id: chr10:34530845
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr7:100959711
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr9:18733629
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:56685875
+  ref_counts: 23
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 22
+- id: chr10:38577434
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chrY:11305157
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr21:9246450
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 44
+- id: chr20:31074244
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 30
+- id: chrY:56837693
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr7:100955598
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr22:12704942
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10717159
+  ref_counts: 6
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 19
+- id: chr20:31059752
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chrY:11293446
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 20
+- id: chr21:10717251
+  ref_counts: 12
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 12
+- id: chr10:41854201
+  ref_counts: 11
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 24
+- id: chr4:23444689
+  ref_counts: 3
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 3
+- id: chr16:46396768
+  ref_counts: 107
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:11570348
+  ref_counts: 16
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 17
+- id: chr20:31052207
+  ref_counts: 35
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 27
+- id: chr21:10414485
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr12:125006064
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr3:14247058
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:12492134
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chrY:11539385
+  ref_counts: 34
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 294
+- id: chr3:172701804
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10702212
+  ref_counts: 3
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr17:21687292
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr5:99878639
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr5:71971192
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr10:42083360
+  ref_counts: 22
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 29
+- id: chrY:11312615
+  ref_counts: 109
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 40
+- id: chr2:122734902
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr10:41878765
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 11
+- id: chr2:5023162
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 11
+- id: chr1:125159756
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:49153393
+  ref_counts: 27
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 13
+- id: chr22:10734664
+  ref_counts: 8
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr5:49657530
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 69
+- id: chr1:244008751
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:169249102
+  ref_counts: 3
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10400728
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:7951110
+  ref_counts: 17
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 16
+- id: chr6:154537231
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr21:7928069
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 10
+- id: chr1:177839387
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr4:49109098
+  ref_counts: 23
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 10
+- id: chr20:31051879
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 19
+- id: chr6:19238765
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr20:31058170
+  ref_counts: 19
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 47
+- id: chr9:117549260
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr15:18911333
+  ref_counts: 7
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 13
+- id: chr8:28610578
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr5:38048732
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:28889793
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 9
+- id: chrY:56826746
+  ref_counts: 19
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 28
+- id: chr9:105443325
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:9013356
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 14
+- id: chr4:7565976
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr9:130288860
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chrY:56831318
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 14
+- id: chrY:11310407
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr17:21676522
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr10:42080372
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 64
+- id: chr21:7918124
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 28
+- id: chr13:51147236
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10799436
+  ref_counts: 5
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr20:29695531
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr4:190179149
+  ref_counts: 7
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 3
+- id: chr1:120182351
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:51127680
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr9:63788349
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr7:7065578
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 3
+- id: chr16:6160707
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr1:16607258
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:10459091
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr10:38529462
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 67
+- id: chr14:46788096
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr20:28782117
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr15:70279391
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr20:23781888
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr22:11048743
+  ref_counts: 3
+  states:
+  - g_n: AAAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:29054122
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chrY:56835135
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 25
+- id: chr11:2748037
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr6:26283638
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10658065
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10272457
+  ref_counts: 275
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 0
+- id: chr21:10419839
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr6:69005629
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:143234478
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:11296833
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:124794117
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr10:41913307
+  ref_counts: 18
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 20
+- id: chr7:100959344
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr7:140351263
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr9:40908424
+  ref_counts: 7
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 5
+- id: chr1:143235697
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 30
+- id: chr2:31128978
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:11537896
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 21
+- id: chr17:21662648
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:10465439
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr19:27368429
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr9:62808022
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 10
+- id: chr4:49656286
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 15
+- id: chr18:26600335
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr19:8898804
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr16:34575622
+  ref_counts: 25
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 93
+- id: chr10:41858185
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr16:34953876
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr20:30813672
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr4:49142833
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr21:7918873
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr21:10709347
+  ref_counts: 15
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr1:188524274
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:161986833
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr19:27393491
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chrY:11327634
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 52
+- id: chr16:34951670
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr21:10709746
+  ref_counts: 16
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr22:11041429
+  ref_counts: 4
+  states:
+  - g_n: AAAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAAA
+    g_r: AAAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:56706665
+  ref_counts: 16
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 29
+- id: chr10:41894238
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 18
+- id: chr21:10673810
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 11
+- id: chr4:49102034
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 35
+- id: chr1:27362354
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr2:161280004
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr7:48461644
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr5:119980644
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:31066243
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 26
+- id: chr6:26740899
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr21:10712582
+  ref_counts: 7
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 6
+- id: chr21:10667230
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 10
+- id: chrY:56828329
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:11584025
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 9
+- id: chrY:56829630
+  ref_counts: 29
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 134
+- id: chr11:17711195
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:56841090
+  ref_counts: 9
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:11323293
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr3:171390810
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr21:10450906
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr13:18211750
+  ref_counts: 135
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 6
+- id: chrY:11558968
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 20
+- id: chr6:44776530
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 5
+- id: chrY:11316744
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr7:60925656
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:7917900
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 21
+- id: chrY:56834419
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 55
+- id: chr7:62337195
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:49092163
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 19
+- id: chr21:10685476
+  ref_counts: 11
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr6:158630876
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr20:30813398
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 11
+- id: chr18:74427811
+  ref_counts: 3
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 4
+- id: chr14:98769059
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr10:42075303
+  ref_counts: 89
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 105
+- id: chr2:91413598
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr4:49093016
+  ref_counts: 19
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 75
+- id: chr16:87549100
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr12:77116590
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr20:30816275
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr2:212578181
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:10703900
+  ref_counts: 9
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 9
+- id: chr10:42097660
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:16617217
+  ref_counts: 7
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr17:22136560
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr22:11305854
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr11:112402274
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr22:18733978
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr6:41964475
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr20:50368325
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:56834380
+  ref_counts: 32
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 82
+- id: chr1:212468014
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr17:21917830
+  ref_counts: 3
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 6
+- id: chr21:45308096
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:10758891
+  ref_counts: 3
+  states:
+  - g_n: AAA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AAA
+    g_r: AAA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 7
+- id: chr21:10455009
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:190177917
+  ref_counts: 6
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 17
+- id: chr4:49154083
+  ref_counts: 6
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 21
+- id: chr7:157433691
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:125082308
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 5
+- id: chr1:125176496
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr4:167039676
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 0
+- id: chr4:110248074
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chrY:11538991
+  ref_counts: 35
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr21:7917855
+  ref_counts: 10
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 23
+- id: chr10:41908334
+  ref_counts: 12
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 16
+- id: chr16:34120351
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr17:76900985
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr8:12579797
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr21:7948596
+  ref_counts: 13
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 8
+- id: chr20:45660977
+  ref_counts: 3
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 3
+- id: chr17:21666390
+  ref_counts: 8
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr1:4144573
+  ref_counts: 4
+  states:
+  - g_n: A
+    g_r: A
+    g_v: AB
+    prior_weight: 1
+  - g_n: A
+    g_r: A
+    g_v: BB
+    prior_weight: 1
+  - g_n: A
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  var_counts: 17
+- id: chr21:7943460
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 18
+- id: chr20:29086841
+  ref_counts: 4
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4
+- id: chr5:49600461
+  ref_counts: 15
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 103
+- id: chr1:125070827
+  ref_counts: 5
+  states:
+  - g_n: AA
+    g_r: AA
+    g_v: AB
+    prior_weight: 1
+  - g_n: AA
+    g_r: AA
+    g_v: BB
+    prior_weight: 1
+  var_counts: 4

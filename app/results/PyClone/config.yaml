@@ -1,0 +1,26 @@
+base_measure_params:
+  alpha: 1
+  beta: 1
+beta_binomial_precision_params:
+  prior:
+    rate: 0.001
+    shape: 1.0
+  proposal:
+    precision: 0.01
+  value: 1000
+concentration:
+  prior:
+    rate: 0.001
+    shape: 1.0
+  value: 1.0
+density: pyclone_beta_binomial
+init_method: disconnected
+num_iters: 10000
+samples:
+  PyCloneInput:
+    error_rate: 0.001
+    mutations_file: ./Results/PyClone/yaml/PyCloneInput.yaml
+    tumour_content:
+      value: 1.0
+trace_dir: trace
+working_dir: /Users/simon/Desktop/Bakalarka/Code/SingleSample/Results/PyClone
