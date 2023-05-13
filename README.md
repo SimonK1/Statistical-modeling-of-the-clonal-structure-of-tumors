@@ -2,12 +2,6 @@
 
 This repository serves as an accompanying repository for submitting a bachelor's thesis with the topic "Statistical modeling of the clonal structure of tumors". Due to the large volume of input genomic data, it was necessary to create a repository from which they can be easily accessed. The bachelor's thesis and the entire repository were developed by a FIIT STU (Faculty of Informatics and Information Technologies) student named Simon Kokavec.
 
-
-
-## Input File
-
-To start the entire docker container, it is necessary to download the sample data from the link below. This genomic data is too large to be placed on git, so we are attaching an extra link. This data must be **placed in the app folder**. 
-
 ## Launch 
 
 As a first step, it is necessary to make sure that docker is running.
@@ -73,7 +67,7 @@ App directory structure is described below:
 
 - main.ipynb  - It is the main file from which the main pipeline is launched.
 - manual.md - This file serves as a manual for the main pipeline.
-- DO52567.vcf - Input VCF file
+- DO52567.vcf - Input VCF file. (Added through GIT LFS. Visible as symbolic link until cloned)
 - copyCalling.md - This file serves as a manual for the optional use of copy caller.
 - indexBam.md - This file server as a manual for the optional indexing of bam file.
 - preprocessing.py - This file contains all the important transformers that the main pipeline uses.
