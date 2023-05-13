@@ -4,6 +4,10 @@ This repository serves as an accompanying repository for submitting a bachelor's
 
 
 
+## Input File
+
+To start the entire docker container, it is necessary to download the sample data from the link below. This genomic data is too large to be placed on git, so we are attaching an extra link. This data must be **placed in the app folder**. 
+
 ## Launch 
 
 As a first step, it is necessary to make sure that docker is running.
@@ -58,7 +62,7 @@ App directory structure is described below:
 
 ##### Directories
 
-- copyCaller - The directory where the input and output files for the copy caller are stored. Inside there is subdirectory called **inputFile** where you need to insert the input file for CNVpytor/CNVnator derived from BAM file. After successful run of copy caller, the resulting .tsv file must be saved in a subdirectory called **results**. 
+- copyCaller - The directory where the input and output files for the copy caller are stored. Inside there is subdirectory called **inputFile** where you need to insert the input file for CNVpytor/CNVnator derived from BAM file (We do not attach this file as it reaches large sizes). After successful run of copy caller, the resulting .tsv file must be saved in a subdirectory called **results**. 
 - inputFiles - Directory in which all input files for used tools are stored. This folder and all its subfolders are used by the main pipeline for storing data preparation results. The internal subdirectories are divided nominally according to the names of the tools.
 - results - The directory used by the main pipeline to store the final results. The internal subdirectories are divided nominally according to the names of the tools.
 - scripts - All R scripts used by the pipeline are stored in this directory. Do not change this directory.
