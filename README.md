@@ -28,7 +28,9 @@ The working directory is set to a directory called **app** where all the necessa
 
 ### Main pipeline
 
-The main pipeline is located in the **main.ipynb** file and the corresponding documentation is located in the **manual.md** file.
+The main pipeline is located in the **main.ipynb** file and the corresponding documentation is located in the **manual.md** file. 
+
+Pipeline prepares all the files needed to run all libraries except the PyClone library. This library is written for a very old version of python 2.7, so neither the container nor the code can be used with this library. Therefore, the pipeline only prepares input files for this tool. To start the PyClone library, it is necessary to follow the instructions in the **PyClone.md** file.
 
 
 
