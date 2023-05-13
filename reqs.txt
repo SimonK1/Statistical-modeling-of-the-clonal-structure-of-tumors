@@ -1,0 +1,16 @@
+jupyterlab
+pandas
+numpy
+pathlib
+matplotlib
+scikit-learn
+seaborn
+requires.io
+CNVpytor
+click
+h5py >= 3
+numba
+numpy
+pandas
+scipy
+fastclone-guanlab

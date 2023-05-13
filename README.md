@@ -40,7 +40,19 @@ If the data does not contain CNVs, it is necessary to follow the instructions in
 
 
 
-### App structure
+### File structure
+
+##### Directories
+
+- app - Directory in which the entire functioning of the program is located. There are both input and output files. Docker container sets this directory as the **working directory**.
+
+##### Files
+
+- Dockerfile - File needed to initialize the docker container
+- reqs.txt - This file serves as a requirements file for the installation of the docker container and all python dependencies.
+- installation.R - This file server as an installation file for all R packages and dependencies.
+
+### App directory structure
 
 App directory structure is described below:
 
@@ -55,7 +67,7 @@ App directory structure is described below:
 
 - main.ipynb  - It is the main file from which the main pipeline is launched.
 - manual.md - This file serves as a manual for the main pipeline.
+- DO52567.vcf - Input VCF file
 - copyCalling.md - This file serves as a manual for the optional use of copy caller.
 - indexBam.md - This file server as a manual for the optional indexing of bam file.
-- preprocessing.py - This file contains all the important transformers that the mainpipeline uses.
-- reqs.txt - This file serves as a requirements file for the installation of the docker container.
+- preprocessing.py - This file contains all the important transformers that the main pipeline uses.

@@ -14,7 +14,7 @@ RUN apt-get update && apt-get install -y \
     libxml2-dev \
     libssl-dev 
 
-RUN pip3 install -r /app/reqs.txt --break-system-packages
+RUN pip3 install -r reqs.txt --break-system-packages
 
 RUN pip3 install git+https://github.com/Roth-Lab/pyclone-vi.git --break-system-packages
 
@@ -22,9 +22,9 @@ RUN wget https://cran.r-project.org/src/contrib/Archive/NORMT3/NORMT3_1.0.4.tar.
 
 RUN R -e "install.packages('NORMT3_1.0.4.tar.gz', repos = NULL, type = 'source')"
 
-WORKDIR /app
-
 RUN Rscript installation.R
+
+WORKDIR /app
 
 EXPOSE 8888
 
