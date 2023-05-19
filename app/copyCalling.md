@@ -36,7 +36,7 @@ After entering the view command, the interface of the view function appears. It 
 ## **Granularity 100000**
 
 ```
-!cnvpytor -root file.pytor -view 100000
+cnvpytor -root file.pytor -view 100000
 ```
 
 

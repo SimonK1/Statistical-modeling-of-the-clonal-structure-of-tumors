@@ -6,7 +6,9 @@ This manual is preceded by copy calling steps, for which indexing of bam file is
 
 #### **However, for running the pipeline with sample data, these steps are not necessary, as all the necessary data is supplied!!!**
 
+### User interface
 
+The entire solution is concentrated within this jupyter notebook. To start, just start the whole jupyter notebook or start cell by cell.
 
 ### Importing libraries
 

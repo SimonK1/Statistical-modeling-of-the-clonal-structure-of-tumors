@@ -5,7 +5,7 @@ For indexing, it is necessary to use the Samtools tool, which can index even lar
 [Index function](*http://www.htslib.org/doc/samtools-index.html*)
 
 ```
-!samtools index ./BamSource/Input.bam  ./BamSource/Input.bam.bai
+samtools index ./BamSource/Input.bam  ./BamSource/Input.bam.bai
 ```
 
 
@@ -15,6 +15,6 @@ For indexing, it is necessary to use the Samtools tool, which can index even lar
 [View Function](*http://www.htslib.org/doc/samtools-view.html*)
 
 ```
-!samtools view -bo chr1.bam -s 123.4 ./BamSource/Input.bam 1
+samtools view -bo chr1.bam -s 123.4 ./BamSource/Input.bam 1
 ```
 
