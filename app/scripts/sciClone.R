@@ -1,6 +1,5 @@
 # Loading required libraries
 library(sciClone)
-library(tidyverse)
 
 
 # Read vaf data

@@ -243,7 +243,7 @@ class SciCloneTransformer(TransformerMixin):
         sciclone_df['var_reads'] = sciclone_df['var_reads'].astype(int)
 
         # Exporting into .tsv file
-        sciclone_df.to_csv('./inputFiles/Sciclone/ScicloneVafFile.tsv', sep="\t", index=False, header=False)
+        sciclone_df.to_csv('./inputFiles/SciClone/ScicloneVafFile.tsv', sep="\t", index=False, header=False)
 
         # Creating new dataframe with correct order of needed columns and correct names
         sciclone_df2['chr'] = self.data['chr'].values
@@ -254,7 +254,7 @@ class SciCloneTransformer(TransformerMixin):
         sciclone_df2['segment_mean'] = sciclone_df2['segment_mean'].astype('int')
 
         # Exporting into .tsv file
-        sciclone_df2.to_csv('./inputFiles/Sciclone/ScicloneCopyFile.tsv', sep="\t", header=False, index=False)
+        sciclone_df2.to_csv('./inputFiles/SciClone/ScicloneCopyFile.tsv', sep="\t", header=False, index=False)
         return X
     
 class CoverageFileTransformer(TransformerMixin):
@@ -411,7 +411,7 @@ class FastCloneTransformer(TransformerMixin):
         fastclone_df = fastclone_df.drop('none', axis=1)
 
         # Export into .tsv file
-        fastclone_df.to_csv('./InputFiles/FastClone/FastCloneInput.tsv', sep="\t", index=False)
+        fastclone_df.to_csv('./inputFiles/FastClone/FastCloneInput.tsv', sep="\t", index=False)
         return X
 
     
@@ -436,7 +436,7 @@ class TitanCNA(TransformerMixin):
         This function runs TitanCNA R script and takes as input file prepared data files.
         Het file is created by TitanCNATransforme anc Cn file is created by CoverageFileTransformer.
         """
-        os.system('Rscript ./Scripts/titanCNA.R --id TitanCNA --hetFile ./InputFiles/TitanCNA/Titancna.het --cnFile ./InputFiles/TitanCNA/Titancna.cn --chrs "c(1:22, \\"X\\")" --estimatePloidy TRUE --outDir ./Results/TitanCNA/')
+        os.system('Rscript ./scripts/titanCNA.R --id TitanCNA --hetFile ./inputFiles/TitanCNA/Titancna.het --cnFile ./inputFiles/TitanCNA/Titancna.cn --chrs "c(1:22, \\"X\\")" --estimatePloidy TRUE --outDir ./results/TitanCNA/')
         return X
     
 class SciClone(TransformerMixin):
@@ -486,7 +486,7 @@ class FastClone(TransformerMixin):
         All input files were prepared by FastCloneTransformer.
         """
 
-        os.system('fastclone load-pyclone prop ./InputFiles/FastClone/FastCloneInput.tsv None solve ./Results/FastClone/')
+        os.system('fastclone load-pyclone prop ./inputFiles/FastClone/FastCloneInput.tsv None solve ./results/FastClone/')
         return X
     
 
@@ -513,7 +513,7 @@ class PyCloneVI(TransformerMixin):
         Subsequently, this function prepares histplot which serves as a great display of cellular prevalence.
         """
 
-        os.system('!pyclone-vi fit -i ./inputFiles/PyCloneVI/PyCloneVIInput.tsv -o ./results/PyCloneVI/PyCloneVI.h5 -c 40 -d beta-binomial -r 10')
+        os.system('pyclone-vi fit -i ./inputFiles/PyCloneVI/PyCloneVIInput.tsv -o ./results/PyCloneVI/PyCloneVI.h5 -c 40 -d beta-binomial -r 10')
         
         # Reading results and creating histplot. Subsequently exporting histplot.
         data = pd.read_csv('./results/PyCloneVI/PyCloneVI.tsv', sep="\t")

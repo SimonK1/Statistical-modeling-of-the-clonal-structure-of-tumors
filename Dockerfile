@@ -2,10 +2,13 @@ FROM ubuntu:23.04
 
 COPY app /app
 
+COPY reqs.txt .
+
 RUN apt-get update && apt-get install -y \
     python3 \
     python3-pip \
     r-base \
+    r-recommended \
     r-cran-rcurl \
     r-base-dev \
     git \
@@ -22,9 +25,9 @@ RUN wget https://cran.r-project.org/src/contrib/Archive/NORMT3/NORMT3_1.0.4.tar.
 
 RUN R -e "install.packages('NORMT3_1.0.4.tar.gz', repos = NULL, type = 'source')"
 
-RUN Rscript installation.R
-
 WORKDIR /app
+
+RUN Rscript installation.R
 
 EXPOSE 8888
 
